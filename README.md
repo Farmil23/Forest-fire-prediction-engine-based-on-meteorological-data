@@ -1,6 +1,3 @@
-Tentu, ini adalah konten **README.md** yang lengkap dalam format Markdown, siap untuk Anda salin:
-
-```markdown
 # Algerian Forest Fire Predictor
 
 Proyek ini adalah aplikasi berbasis web yang memprediksi **Fire Weather Index (FWI)** berdasarkan data meteorologi menggunakan teknik *Machine Learning*. Proyek ini dibangun dengan **Flask** sebagai kerangka kerja web dan menggunakan algoritma **Ridge Regression** untuk prediksi.
@@ -117,7 +114,6 @@ Proses pengembangan model didokumentasikan dalam folder `Notebook/`:
 
 Kontribusi selalu diterima! Silakan buat *Pull Request* atau buka *Issue* jika Anda menemukan *bug* atau memiliki saran perbaikan.
 
----
 
 **Dibuat oleh Farhan kamil hermansyah - 152024150**
 '''
